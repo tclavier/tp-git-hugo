@@ -44,7 +44,7 @@ Dans les exercices suivants, je vous invites à systématiquement observer l'ét
 
 ## Les débuts (add, commit, pull, push, status)
 
-Mettez vous par groupe de 2 à 4 puis "Forcker" le projet GitLab `https://...` chez l'un des membres de votre équipe. Ajoutez ensuite les autres membres de votre équipe en tant que développeur.
+Mettez vous par groupe de 2 à 4 puis "Forcker" le projet GitLab `https://git-iut.univ-lille1.fr/thomas.clavier/tp-git-hugo` chez l'un des membres de votre équipe. Ajoutez ensuite les autres membres de votre équipe en tant que développeur.
 
 * Clonez le projet sur votre poste de développeur puis lancer le serveur Hugo en locale
 * Créer puis indexer chacun un article. Faire un premier commit.
