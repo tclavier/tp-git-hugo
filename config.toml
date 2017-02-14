@@ -1,0 +1,4 @@
+theme="hugo_theme_robust"
+baseurl = "http://YourSiteURL.com"
+languageCode = "fr-fr"
+title = "Blog formation git"
