@@ -28,6 +28,10 @@ Puis visitez http://localhost:1313/
     **Gras**
     ***Gras et italique***
 
+## Git
+
+Pour vous aider dans la compréhention de git vous pouvez vous référer à ce petit [guide de survie git](https://github.com/tclavier/memo-git/).
+
 # Exercices
 
 Dans les exercices suivants, je vous invites à systématiquement observer l'état de votre espace de travail à l'aide de la commande `git status`. et à surveiller l'historique avec la commande `git log --oneline --decorate --graph --all`
