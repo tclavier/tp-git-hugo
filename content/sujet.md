@@ -39,7 +39,6 @@ Dans les exercices suivants, je vous invites à systématiquement observer l'ét
 ## Configuration
 
 * Configurer son nom, prénom et email à l'aide de la commande `config`
-* Générer une clé ssh et l'ajouter à son profil GitLab
 * Vérifiez à l'aide de la commande `git config --list`
 
 ## Les débuts (add, commit, pull, push, status)
