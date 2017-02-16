@@ -6,4 +6,8 @@ Vous trouverez ici un TP git à dérouler tout seul ou en équipe pour explorer 
 
 ## Le TP
 
-En équipe, forquez ce dépot chez un membre de l'équipe, le clonner sur vos postes de développement puis lancer le serveur : `./bin/hugo server --buildDrafts -w` avant de visitez : http://localhost:1313/
+Demander un accès sur ce projet, le clonner sur vos postes de développement puis lancer le serveur : `./bin/hugo server --buildDrafts -w` avant de visitez : http://localhost:1313/
+
+## Resources
+
+En plus du livre https://git-scm.com/book/fr vous trouverez un grand nombre d'information dansles différents man ainsi que dans ce petit [guide de survie git](https://github.com/tclavier/memo-git/).

@@ -22,15 +22,13 @@ Puis visitez http://localhost:1313/
 
     # Titre 1
     ## Sous Titre 1
+
     * Liste à puce, item1
     * Liste à puce, item2
+
     *Italique*
     **Gras**
     ***Gras et italique***
-
-## Git
-
-Pour vous aider dans la compréhention de git vous pouvez vous référer à ce petit [guide de survie git](https://github.com/tclavier/memo-git/).
 
 # Exercices
 
@@ -39,31 +37,29 @@ Dans les exercices suivants, je vous invites à systématiquement observer l'ét
 ## Configuration
 
 * Configurer son nom, prénom et email à l'aide de la commande `config`
+* Configurer le serveur mandataire de l'université (`http://cache.univ-lille1.fr:3128`)
 * Vérifiez à l'aide de la commande `git config --list`
 
 ## Les débuts (add, commit, pull, push, status)
 
-Mettez vous par groupe de 2 à 4 puis "Forcker" le projet GitLab `https://git-iut.univ-lille1.fr/thomas.clavier/tp-git-hugo` chez l'un des membres de votre équipe. Ajoutez ensuite les autres membres de votre équipe en tant que développeur.
-
-* Clonez le projet sur votre poste de développeur puis lancer le serveur Hugo en locale
 * Créer puis indexer chacun un article. Faire un premier commit.
 * Partager l’article.
 * Récupérer les articles depuis son poste.
 * Jouer avec les commandes `add`, `commit`, `pull`, `push`, `status`
 
-## Gestion des conflits (fetch, merge, pull)
+## Gestion des conflits (add, commit, pull, pull)
 
-Par équipe, définir un sujet d’article et un nom de fichier associé. Pour cet éxercice, vous ne modifierez que ce fichier.
+Par équipe de 2 à 4, définir un sujet d’article et un nom de fichier associé. Pour cet éxercice, vous ne modifierez que ce fichier.
 
-* Modifier, sur son poste, l’article de son groupe de travail.
+* Modifier en même temps l’article de son groupe de travail.
 * Partager ses modifications à plusieurs reprises.
-* Expérimenter différents conflits, différents mode d'éditions avec les commandes `fetch`, `merge` et `pull`.
+* Expérimenter différents conflits (en haut du fichier, en bas du fichier, une ligne, de nombreuses lignes, etc.)
 
 ## Ignorer des fichiers (.gitignore, clean)
 
 * Relancez Hugo avec les options : `server --buildDrafts -w -d public`
-* Modifier .gitignore pour que les fichiers générer par Hugo soient ignorer par Git
-* Nettoyer son répertoire de travail.
+* Modifier .gitignore pour que les fichiers générer par Hugo soient ignoré par Git
+* Nettoyer son répertoire de travail avec la commande `clean`.
 
 ## Visualiser l’historique (blame, diff, log)
 
