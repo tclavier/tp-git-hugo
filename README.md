@@ -10,4 +10,4 @@ Demander un accès sur ce projet, le clonner sur vos postes de développement pu
 
 ## Resources
 
-En plus du livre https://git-scm.com/book/fr vous trouverez un grand nombre d'information dansles différents man ainsi que dans ce petit [guide de survie git](https://github.com/tclavier/memo-git/).
+En plus du livre https://git-scm.com/book/fr vous trouverez un grand nombre d'information dans les différents man ainsi que dans ce petit [guide de survie git](https://github.com/tclavier/memo-git/).
