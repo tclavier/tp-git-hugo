@@ -61,15 +61,16 @@ Par équipe de 2 à 4, définir un sujet d’article et un nom de fichier associ
 * Modifier .gitignore pour que les fichiers générer par Hugo soient ignoré par Git
 * Nettoyer son répertoire de travail avec la commande `clean`.
 
-## Visualiser l’historique (blame, diff, log)
+## Visualiser l’historique (blame, diff, log, show)
 
 * Afficher l’historique des commits.
 * Afficher la différence entre deux commits.
+* Afficher le détail d'un commit.
 * Identifier l’auteur des différentes parties de son article.
 * Expérimenter l’affichage de l’historique avec différentes options de formatage.
 * Rajouter l'alias `h` pour les options `log --oneline --decorate --graph --all`
 
-## Manipuler les zones de travail git (mv, reset, rm)
+## Des changements plus évolués (mv, reset, rm)
 
 * Renomer un article personnel et enregistrer ce changement de 2 façon différentes.
 * Faire un changement et le valider avant de l'annuler définitivement.
