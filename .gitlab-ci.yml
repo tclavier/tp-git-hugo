@@ -1,0 +1,11 @@
+variables:
+  http_proxy: "http://cache.univ-lille1.fr:3128"
+  https_proxy: "http://cache.univ-lille1.fr:3128"
+
+before_script:
+  - apt-get update -qq && apt-get install -y wget
+  - wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1-64bit.deb -O /tmp/hugo.deb
+  - dpkg -i /tmp/hugo.deb
+
+test:
+  script: "/usr/bin/hugo"
