@@ -42,12 +42,12 @@ Dans les exercices suivants, je vous invites à systématiquement observer l'ét
 
 ## Les débuts (add, commit, pull, push, status)
 
-* Créer puis indexer chacun un article. Faire un premier commit.
+* Créer puis indexer chacun un article. Faire un premier commit. En utilisant du Markdown vous pouvez affiner la mise en page.
 * Partager l’article.
 * Récupérer les articles depuis son poste.
 * Jouer avec les commandes `add`, `commit`, `pull`, `push`, `status`
 
-## Gestion des conflits (add, commit, pull, pull)
+## Gestion des conflits (add, commit, pull, push)
 
 Par équipe de 2 à 4, définir un sujet d’article et un nom de fichier associé. Pour cet éxercice, vous ne modifierez que ce fichier.
 
