@@ -4,35 +4,11 @@ title = "Sujet de TP"
 
 +++
 
-# Mémo
-
-## Hugo
-
-Création d'un article
-
-    ./bin/hugo new nom-de-l-article.md
-
-Lancer Hugo sur son poste de dev
-
-    ./bin/hugo server --buildDrafts -w
-
-Puis visitez http://localhost:1313/
-
-## Markdown
-
-    # Titre 1
-    ## Sous Titre 1
-
-    * Liste à puce, item1
-    * Liste à puce, item2
-
-    *Italique*
-    **Gras**
-    ***Gras et italique***
-
 # Exercices
 
 Dans les exercices suivants, je vous invites à systématiquement observer l'état de votre espace de travail à l'aide de la commande `git status`. et à surveiller l'historique avec la commande `git log --oneline --decorate --graph --all`
+
+À la fin de ce sujet vous trouverez un tout petit memo avec les commandes hugo indispensable pour le bon déroulement du TP, ainsi que des éléments sur la syntaxe Markdown.
 
 ## Configuration
 
@@ -42,7 +18,7 @@ Dans les exercices suivants, je vous invites à systématiquement observer l'ét
 
 ## Les débuts (add, commit, pull, push, status)
 
-* Créer puis indexer chacun un article. Faire un premier commit. En utilisant du Markdown vous pouvez affiner la mise en page.
+* Créer puis indexer un article. Faire un premier commit. En utilisant du Markdown vous pouvez affiner la mise en page.
 * Partager l’article.
 * Récupérer les articles depuis son poste.
 * Jouer avec les commandes `add`, `commit`, `pull`, `push`, `status`
@@ -124,3 +100,31 @@ Par équipe de 2 à 4, définir un sujet d’article et un nom de fichier associ
  * Prendre un commit quelconque et l’appliquer localement
  * Fusionner deux commits en un seul.
  * Changer le commentaire d’un commit
+
+# Mémo
+
+## Hugo
+
+Création d'un article
+
+    ./bin/hugo new nom-de-l-article.md
+
+Lancer Hugo sur son poste de dev
+
+    ./bin/hugo server --buildDrafts -w
+
+Puis visitez http://localhost:1313/
+
+## Markdown
+
+    # Titre 1
+    ## Sous Titre 1
+
+    * Liste à puce, item1
+    * Liste à puce, item2
+
+    *Italique*
+    **Gras**
+    ***Gras et italique***
+
+

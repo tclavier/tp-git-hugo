@@ -2,7 +2,7 @@
 
 ## À propos
 
-Vous trouverez ici un TP git à dérouler tout seul ou en équipe pour explorer une partie des capacités de git. Comptez 2h pour réaliser les bases (les premiers exercices) et 4h pour faire tous les exercices.
+Vous trouverez ici un TP git à dérouler tout seul ou en équipe pour explorer une partie des capacités de git. Comptez 2h pour réaliser les bases (jusqu'à finir l'exercice "Visualiser l’historique") et 4h pour faire tous les exercices.
 
 ## Le TP
 
