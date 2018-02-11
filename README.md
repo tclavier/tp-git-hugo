@@ -1,3 +1,7 @@
+# Warning
+
+This project has moved to https://gitlab.com/tclavier/tp-git-hugo
+
 # TP git
 
 ## À propos
